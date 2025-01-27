@@ -1,6 +1,4 @@
-# awesome-substrate-security
-
-**Audit Reports**
+# Audit Reports
 
 https://github.com/zenlinkpro/zenlink-security-audit/tree/master/substrate
 
